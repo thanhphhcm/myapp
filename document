@@ -17,7 +17,12 @@ demo merg
 
 demo merg 1
 
+<<<<<<< HEAD
 hello mn 
 Y day --- hehe
 
 vu add new 1
+=======
+hello mn , da den day 
+Y day
+>>>>>>> c14cf1ca01815897cf82bf7cc43c288d20b9b83c
